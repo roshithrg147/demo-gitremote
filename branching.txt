@@ -1,2 +1,5 @@
 Adding new features in the branch node.
 What is “version control”, and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the examples in this book, you will use software source code as the files are controlled, though in reality, you can do this with nearly any type of file on a computer.
+
+Local Version Control Systems
+Many people’s version-control method of choice is to copy files into another directory (perhaps a time-stamped directory, if they’re clever). This approach is very common because it is so simple, but it is also incredibly error-prone. It is easy to forget which directory you’re in and accidentally write to the wrong file or copy over files you don’t mean to.
